@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasmeen1347
 - 👀 I’m interested in Web and Blockchain technology
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning React.js && Blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:jasmeen.maradeeya@gmail.com
 
