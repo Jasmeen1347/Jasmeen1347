@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Projects<br>👯 I’m looking to collaborate on Blockchain Projects<br>🤝 I’m looking for help with Open Source<br>🌱 I’m currently learning Blockchain<br>💬 Ask me about Web Development<br>⚡ Fun fact I like outdoor activity.
+🔭 I’m currently working on Web3 Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Blockchain & security <br>💬 Ask me about Web Development<br>⚡ Fun fact I like outdoor activity.
 
 
 ## 🌐 Socials:
